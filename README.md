@@ -16,7 +16,6 @@
 <a href="https://twitter.com/TheDesaiV" target="_blank"><img align="left" alt="Vish Desai"  height="22px" width="22px" src="https://image.flaticon.com/icons/png/512/1409/1409937.png" />
 <a href="https://www.facebook.com/vishwas.desai.906" target="_blank"><img align="left" alt="Vishwas Desai"  height="22px" width="22px" src="https://image.flaticon.com/icons/png/512/1409/1409943.png" />
 
-###
- <img align="center" alt="Star Wars" height="300px" width="350px" src="https://o.remove.bg/downloads/2a131d20-d2a9-4efb-a742-f0c00ff1b2fa/poster_840x830_f8f8f8-pad_1000x1000_f8f8f8-removebg-preview.png" />
+
 
 
