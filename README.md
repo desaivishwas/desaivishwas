@@ -3,7 +3,7 @@
 - <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Indiana_Hoosiers_logo.svg" height=20 width=18> I’m currently pursuing a Master's in Computer Science degree at Indiana University, Bloomington 
 - 💥 I’m currently learning Java, Computer Networking, Web Dev, and Full-Stack development.
 - 👷‍♂️ I’m looking to collaborate on any development projects and open-source projects
-- :desktop_computer: Currently I’m looking for Internships and full-time oppurtunties for Summer '22
+- :desktop_computer: Currently looking for full-time SDE oppurtunties starting Jan 2023
 - 🥊 During my free-time I watch movies, read books, create spec art
 - 📫 How to reach me: vishwasdesai.info@gmail.com
 - Portfolio - https://desaivishwas.github.io/
