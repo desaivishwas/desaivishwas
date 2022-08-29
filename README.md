@@ -6,6 +6,9 @@ The purpose of doing a master's degree is to leaverage knowledge in Web Dev, Ful
 
 I’m looking to collaborate on any development projects and open-source projects
 
+
+____
+
 :loudspeaker: Currently looking for full-time SDE oppurtunties starting Jan 2023
 
 :e-mail: How to reach me: vishwasdesai.info@gmail.com
