@@ -7,6 +7,7 @@
 - 🥊 During my free-time I watch movies, read books, create spec art
 - 📫 How to reach me: vishwasdesai.info@gmail.com
 - Portfolio - https://desaivishwas.github.io/
+- Resume - https://github.com/desaivishwas/resume-vishwas-desai
 
 
 
