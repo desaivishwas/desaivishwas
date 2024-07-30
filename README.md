@@ -11,7 +11,7 @@ ____
 
 :loudspeaker: Currently looking for full-time SDE oppurtunties starting Jan 2023
 
-:e-mail: How to reach me: vishwasdesai.info@gmail.com
+:e-mail: How to reach me: vishwasdesai023@gmail.com
 
 :desktop_computer: Portfolio - https://desaivishwas.github.io/
 
